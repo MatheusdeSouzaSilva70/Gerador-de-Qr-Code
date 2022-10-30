@@ -2,8 +2,7 @@
 ##Visualização do projeto: 
 <br/>
 <br/>
-![ss](
-![README.md](https://user-images.githubusercontent.com/97799788/184714233-871d5962-af1d-4760-9a89-1fef282d6cee.png))
+![README.md](https://github.com/MatheusdeSouzaSilva70/Gerador-de-Qr-Code/blob/main/img/img%20do%20projeto.png)
 
 ### Um projeto de gerar de Qr Code colocando texto ou url.
 Feito com: HTML,CSS,JAVASCRIT.
